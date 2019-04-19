@@ -1,0 +1,1 @@
+# React Native Posting App creating following this tutorial https://medium.com/devopslinks/serverless-tweeting-app-with-react-native-and-aws-amplify-598a88563724
